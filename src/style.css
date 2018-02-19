@@ -1,0 +1,11 @@
+.card-news:hover {
+    box-shadow: 0 0 7px #29a5ff;
+    cursor: pointer;
+}
+
+.card-body {
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+}
